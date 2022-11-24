@@ -32,13 +32,13 @@
 ### 태스크를 항목으로 관리하세요. 각 태스크마다 뽀모도로 타이머로 시간을 기록하세요.
 <img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187219405-fa6a7a7e-0c13-417e-b1f7-a872625b53a8.gif">
 
-<!- ![vllo 2](https://user-images.githubusercontent.com/55748886/187219405-fa6a7a7e-0c13-417e-b1f7-a872625b53a8.gif) -!>
 
 ### 🧾Print Receipt
 
 ### 완료한 항목 혹은 시간이 기록된 항목을 영수증으로 출력해보세요.
+<img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187220256-85610a2d-0996-4b43-a178-c51da9aa6855.gif"]
 
-![vllo 3](https://user-images.githubusercontent.com/55748886/187220256-85610a2d-0996-4b43-a178-c51da9aa6855.gif)
+<!-[vllo 3](https://user-images.githubusercontent.com/55748886/187220256-85610a2d-0996-4b43-a178-c51da9aa6855.gif) !->
 
 ### 🗂Archaiv Receipt
 
