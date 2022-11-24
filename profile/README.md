@@ -30,8 +30,9 @@
 ### 📝Todo List with Pomodoro Timer
 
 ### 태스크를 항목으로 관리하세요. 각 태스크마다 뽀모도로 타이머로 시간을 기록하세요.
+<img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187219405-fa6a7a7e-0c13-417e-b1f7-a872625b53a8.gif">
 
-![vllo 2](https://user-images.githubusercontent.com/55748886/187219405-fa6a7a7e-0c13-417e-b1f7-a872625b53a8.gif)
+<!- ![vllo 2](https://user-images.githubusercontent.com/55748886/187219405-fa6a7a7e-0c13-417e-b1f7-a872625b53a8.gif) -!>
 
 ### 🧾Print Receipt
 
