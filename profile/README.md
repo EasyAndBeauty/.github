@@ -47,8 +47,8 @@
 
 ## 개발 프로세스
 
-###📍피그잼으로 기능단위별로 역할배분 및 협업
-  <img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187216355-a6a170fc-3912-4190-97fc-8704ba9151e9.png">
+### 📍피그잼으로 기능단위별로 역할배분 및 협업
+<img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187216355-a6a170fc-3912-4190-97fc-8704ba9151e9.png">
 
-###📍도메인설정
-  <img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187216544-bc25594c-b010-4aee-8ad7-80ec05c923bf.png">
+### 📍도메인설정
+<img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187216544-bc25594c-b010-4aee-8ad7-80ec05c923bf.png">
