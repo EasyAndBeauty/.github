@@ -36,20 +36,19 @@
 ### 🧾Print Receipt
 
 ### 완료한 항목 혹은 시간이 기록된 항목을 영수증으로 출력해보세요.
-<img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187220256-85610a2d-0996-4b43-a178-c51da9aa6855.gif"]
+<img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187220256-85610a2d-0996-4b43-a178-c51da9aa6855.gif">
 
-<!-[vllo 3](https://user-images.githubusercontent.com/55748886/187220256-85610a2d-0996-4b43-a178-c51da9aa6855.gif) !->
 
 ### 🗂Archaiv Receipt
 
 ### 로그인 한후에 완료한 항목들을 영수증으로 라이브러리처럼 관리해보세요.
 
-![vllo](https://user-images.githubusercontent.com/55748886/187217353-c9783313-f4b6-4ea1-93d0-52a359149cd3.gif)
+<img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187217353-c9783313-f4b6-4ea1-93d0-52a359149cd3.gif">
 
 ## 개발 프로세스
 
 - 📍피그잼으로 기능단위별로 역할배분 및 협업
-  <img width="718" alt="image" src="https://user-images.githubusercontent.com/55748886/187216355-a6a170fc-3912-4190-97fc-8704ba9151e9.png">
+  <img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187216355-a6a170fc-3912-4190-97fc-8704ba9151e9.png">
 
 - 📍도메인설정
-  <img width="667" alt="image" src="https://user-images.githubusercontent.com/55748886/187216544-bc25594c-b010-4aee-8ad7-80ec05c923bf.png">
+  <img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187216544-bc25594c-b010-4aee-8ad7-80ec05c923bf.png">
