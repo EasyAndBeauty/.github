@@ -25,30 +25,32 @@
 아래 키워드들이 Daily Receipt가 추구하는 방향에 대한 키워드입니다.
 <img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187213600-97cb881d-6a7f-446f-847b-9167228095a1.png">
 
-## 기능
+### 기술 스택
 
-### 📝 Todo List with Pomodoro Timer 📝
+### 🔎 기능 🔎
 
-### 태스크를 항목으로 관리하세요. 각 태스크마다 뽀모도로 타이머로 시간을 기록하세요.
+## 📝 Todo List with Pomodoro Timer 📝
+
+태스크를 항목으로 관리하세요. 각 태스크마다 뽀모도로 타이머로 시간을 기록하세요.
 <img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/204286391-7f6e5247-2823-4a3e-b106-ecc2c8e21a87.JPG">
 
 
-### 🧾 Print Receipt 🧾
+## 🧾 Print Receipt 🧾
 
-### 완료한 항목 혹은 시간이 기록된 항목을 영수증으로 출력해보세요.
+완료한 항목 혹은 시간이 기록된 항목을 영수증으로 출력해보세요.
 <img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187220256-85610a2d-0996-4b43-a178-c51da9aa6855.gif">
 
 
-### 🗂 Archaiv Receipt 🗂
+## 🗂 Archaiv Receipt 🗂
 
-### 로그인 한후에 완료한 항목들을 영수증으로 라이브러리처럼 관리해보세요.
+로그인 한후에 완료한 항목들을 영수증으로 라이브러리처럼 관리해보세요.
 
 <img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187217353-c9783313-f4b6-4ea1-93d0-52a359149cd3.gif">
 
-## 개발 프로세스
+### 개발 프로세스
 
-### 📍피그잼으로 기능단위별로 역할배분 및 협업
+## 📍피그잼으로 기능단위별 역할배분 및 페어프로그래밍 병행
 <img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187216355-a6a170fc-3912-4190-97fc-8704ba9151e9.png">
 
-### 📍도메인설정
+## 📍도메인설정
 <img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187216544-bc25594c-b010-4aee-8ad7-80ec05c923bf.png">
