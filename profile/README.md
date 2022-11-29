@@ -42,8 +42,7 @@
 ## 🧾 Print Receipt 🧾
 
 완료한 항목 혹은 시간이 기록된 항목을 영수증으로 출력해보세요.
-<img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187220256-85610a2d-0996-4b43-a178-c51da9aa6855.gif">
-
+<img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/204446093-ed643cf0-6096-431c-8d6b-eb12af54d840.gif">
 
 ## 🗂 Archaiv Receipt 🗂
 
