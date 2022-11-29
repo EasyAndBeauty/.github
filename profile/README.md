@@ -25,12 +25,15 @@
 아래 키워드들이 Daily Receipt가 추구하는 방향에 대한 키워드입니다.
 <img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187213600-97cb881d-6a7f-446f-847b-9167228095a1.png">
 
-### 기술 스택
+### 🛠 기술 스택 🛠
 
-### 🔎 기능 🔎
+프론트엔드: React, Styled-component, Context API
+백엔드: JAPA, Spring
+배포 및 버전관리: AWS, Github
 
+## 🔎 기능 🔎
 
-## 📝 Todo List with Pomodoro Timer 📝
+### 📝 Todo List with Pomodoro Timer 📝
 
 태스크를 항목으로 관리하세요.</br>
 <img width="702" height="702" alt="image" src="https://user-images.githubusercontent.com/55748886/204445330-e35de03e-07be-4f75-8636-8c8febb17d15.gif">
@@ -39,21 +42,21 @@
 <img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/204286391-7f6e5247-2823-4a3e-b106-ecc2c8e21a87.JPG">
 
 
-## 🧾 Print Receipt 🧾
+### 🧾 Print Receipt 🧾
 
 완료한 항목 혹은 시간이 기록된 항목을 영수증으로 출력해보세요.
 <img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/204446093-ed643cf0-6096-431c-8d6b-eb12af54d840.gif">
 
-## 🗂 Archaiv Receipt 🗂
+### 🗂 Archaiv Receipt 🗂
 
 로그인 한후에 보관하고 싶은 영수증을 Pin하면 라이브러리처럼 보관도 가능해요.
 
 <img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187217353-c9783313-f4b6-4ea1-93d0-52a359149cd3.gif">
 
-### 개발 프로세스
+## 개발 프로세스
 
-## 📍피그잼으로 기능단위별 역할배분 및 페어프로그래밍 병행
+### 📍피그잼으로 기능단위별 역할배분 및 페어프로그래밍 병행
 <img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187216355-a6a170fc-3912-4190-97fc-8704ba9151e9.png">
 
-## 📍도메인설정
+### 📍도메인설정
 <img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187216544-bc25594c-b010-4aee-8ad7-80ec05c923bf.png">
