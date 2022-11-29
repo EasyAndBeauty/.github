@@ -23,6 +23,7 @@
 ## 🧭 서비스 방향성 🧭
 
 아래 키워드들이 Daily Receipt가 추구하는 방향에 대한 키워드입니다.
+
 <img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187213600-97cb881d-6a7f-446f-847b-9167228095a1.png">
 
 ## 🛠 기술 스택 🛠
