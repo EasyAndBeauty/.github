@@ -2,7 +2,7 @@
 
 ## 🖨 Print your time ⏱
 
-### Todo List, Pomodoro Timer, Daily Receipt.
+### Todo List, Pomodoro Timer, Daily Receipt.Cancel changes
 
 **Daily Receipt**는 당신의 시간을 정산해드리는 애플리케이션입니다.
 <img width="716" alt="image" src="https://user-images.githubusercontent.com/55748886/187217690-797e0fe1-70f4-4559-a7a9-4403b6bed5cf.png">
@@ -25,7 +25,7 @@
 아래 키워드들이 Daily Receipt가 추구하는 방향에 대한 키워드입니다.
 <img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187213600-97cb881d-6a7f-446f-847b-9167228095a1.png">
 
-### 🛠 기술 스택 🛠
+## 🛠 기술 스택 🛠
 
 프론트엔드: React, Styled-component, Context API
 백엔드: JAPA, Spring
