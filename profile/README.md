@@ -61,8 +61,34 @@
 
 ## 개발 프로세스
 
-### 📍피그잼으로 기능단위별 역할배분 및 페어프로그래밍 병행
-<img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187216355-a6a170fc-3912-4190-97fc-8704ba9151e9.png">
-
 ### 📍도메인설정
 <img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187216544-bc25594c-b010-4aee-8ad7-80ec05c923bf.png">
+
+### 📍피그마로 UI/UX 초안 작성
+<img width="702" alt="프로세스1" src="https://user-images.githubusercontent.com/55748886/204449022-72c1d0d3-9f46-43aa-8745-1c00c6ae1dd7.png">
+
+### 📍피그잼으로 기능단위별 역할배분 및 페어프로그래밍 병행
+
+<img width="945" alt="개발협업프로세스2" src="https://user-images.githubusercontent.com/55748886/204449140-f4ae43e4-23dc-40f6-9f35-fec5d8dbe491.png">
+
+<img width="702" alt="프로세스2" src="https://user-images.githubusercontent.com/55748886/187216355-a6a170fc-3912-4190-97fc-8704ba9151e9.png">
+
+### 📍1차 스프린트 회고
+<img width="702" alt="1차스프린트회고" src="https://user-images.githubusercontent.com/55748886/204450009-8c3cd9ab-8f79-44bb-a341-dec611b528dd.png">
+
+
+### 📍2차 스프린트 회고
+
+<img width="1124" alt="2차스프린트회고" src="https://user-images.githubusercontent.com/55748886/204450071-87bbb2a6-6f68-404b-a509-c35f4e9273dc.png">
+
+### 📍3차 스프린트 회고
+
+<img width="802" alt="3차스프린트 회고" src="https://user-images.githubusercontent.com/55748886/204450102-d722b728-a413-49c8-ae4f-e240647105b4.png">
+
+### 📍4차 스프린트 회고
+
+<img width="732" alt="4차 스프린트 회고" src="https://user-images.githubusercontent.com/55748886/204450132-c7c27f82-5f56-482b-8d68-973ed2c06e61.png">
+
+### 📌 5차 스프린트 진행중 📌
+
+<img width="970" alt="5차 스프린트 스케쥴표" src="https://user-images.githubusercontent.com/55748886/204450236-379644fb-b189-474a-9a65-042302fcf1c0.png">
