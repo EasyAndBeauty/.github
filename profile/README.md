@@ -29,9 +29,12 @@
 
 ### 🔎 기능 🔎
 
+
 ## 📝 Todo List with Pomodoro Timer 📝
 
-태스크를 항목으로 관리하세요. 각 태스크마다 뽀모도로 타이머로 시간을 기록하세요.
+태스크를 항목으로 관리하세요. 
+<img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/204444709-1d12042e-ebc1-4886-8284-9cd0298e492e.gif">
+각 태스크마다 뽀모도로 타이머로 시간을 기록하세요.
 <img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/204286391-7f6e5247-2823-4a3e-b106-ecc2c8e21a87.JPG">
 
 
@@ -43,7 +46,7 @@
 
 ## 🗂 Archaiv Receipt 🗂
 
-로그인 한후에 완료한 항목들을 영수증으로 라이브러리처럼 관리해보세요.
+로그인 한후에 보관하고 싶은 영수증을 Pin하면 라이브러리처럼 보관도 가능해요.
 
 <img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187217353-c9783313-f4b6-4ea1-93d0-52a359149cd3.gif">
 
