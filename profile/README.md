@@ -80,23 +80,23 @@ https://github.com/EasyAndBeauty/DailyReceipt-FE-WEB/wiki/API-문서
 
 <img width="558" alt="이슈 해결방식" src="https://user-images.githubusercontent.com/55748886/204451187-06df3627-5981-492a-a205-9e8e8264e549.png">
 
-### 📍1차 스프린트 회고
+### 📍1차 스프린트 회고(2022.08.24~29)
 <img width="702" alt="1차스프린트회고" src="https://user-images.githubusercontent.com/55748886/204450009-8c3cd9ab-8f79-44bb-a341-dec611b528dd.png">
 
 
-### 📍2차 스프린트 회고
+### 📍2차 스프린트 회고(2022.09.04~11)
 
 <img width="702" alt="2차스프린트회고" src="https://user-images.githubusercontent.com/55748886/204450071-87bbb2a6-6f68-404b-a509-c35f4e9273dc.png">
 
-### 📍3차 스프린트 회고
+### 📍3차 스프린트 회고(2022.09.19~26)
 
 <img width="702" alt="3차스프린트 회고" src="https://user-images.githubusercontent.com/55748886/204450102-d722b728-a413-49c8-ae4f-e240647105b4.png">
 
-### 📍4차 스프린트 회고
+### 📍4차 스프린트 회고(2022.09.27~10.30)
 
 <img width="702" alt="4차 스프린트 회고" src="https://user-images.githubusercontent.com/55748886/204450132-c7c27f82-5f56-482b-8d68-973ed2c06e61.png">
 
-### 📌 5차 스프린트 진행중 📌
+### 📌 5차 스프린트 진행중 📌(2022.11.17~현재)
 
 <img width="702" alt="5차 스프린트 스케쥴표" src="https://user-images.githubusercontent.com/55748886/204450236-379644fb-b189-474a-9a65-042302fcf1c0.png">
 
