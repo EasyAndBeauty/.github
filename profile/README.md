@@ -32,8 +32,9 @@
 
 ## 📝 Todo List with Pomodoro Timer 📝
 
-태스크를 항목으로 관리하세요. 
-<img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/204444709-1d12042e-ebc1-4886-8284-9cd0298e492e.gif">
+태스크를 항목으로 관리하세요.</br>
+<img width="702" height="702" alt="image" src="https://user-images.githubusercontent.com/55748886/204444709-1d12042e-ebc1-4886-8284-9cd0298e492e.gif">
+
 각 태스크마다 뽀모도로 타이머로 시간을 기록하세요.
 <img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/204286391-7f6e5247-2823-4a3e-b106-ecc2c8e21a87.JPG">
 
