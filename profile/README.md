@@ -64,14 +64,21 @@
 ### 📍도메인설정
 <img width="702" alt="image" src="https://user-images.githubusercontent.com/55748886/187216544-bc25594c-b010-4aee-8ad7-80ec05c923bf.png">
 
+### 📍API설계서
+https://github.com/EasyAndBeauty/DailyReceipt-FE-WEB/wiki/API-문서
+
 ### 📍피그마로 UI/UX 초안 작성
 <img width="702" alt="프로세스1" src="https://user-images.githubusercontent.com/55748886/204449022-72c1d0d3-9f46-43aa-8745-1c00c6ae1dd7.png">
 
 ### 📍피그잼으로 기능단위별 역할배분 및 페어프로그래밍 병행
 
-<img width="702" alt="개발협업프로세스2" src="https://user-images.githubusercontent.com/55748886/204449140-f4ae43e4-23dc-40f6-9f35-fec5d8dbe491.png">
+<img width="702" alt="협업프로세스2" src="https://user-images.githubusercontent.com/55748886/204449140-f4ae43e4-23dc-40f6-9f35-fec5d8dbe491.png">
 
-<img width="702" alt="프로세스2" src="https://user-images.githubusercontent.com/55748886/187216355-a6a170fc-3912-4190-97fc-8704ba9151e9.png">
+<img width="702" alt="협업프로세스3" src="https://user-images.githubusercontent.com/55748886/187216355-a6a170fc-3912-4190-97fc-8704ba9151e9.png">
+
+### 📍이슈 해결 방식
+
+<img width="558" alt="이슈 해결방식" src="https://user-images.githubusercontent.com/55748886/204451187-06df3627-5981-492a-a205-9e8e8264e549.png">
 
 ### 📍1차 스프린트 회고
 <img width="702" alt="1차스프린트회고" src="https://user-images.githubusercontent.com/55748886/204450009-8c3cd9ab-8f79-44bb-a341-dec611b528dd.png">
@@ -92,3 +99,4 @@
 ### 📌 5차 스프린트 진행중 📌
 
 <img width="702" alt="5차 스프린트 스케쥴표" src="https://user-images.githubusercontent.com/55748886/204450236-379644fb-b189-474a-9a65-042302fcf1c0.png">
+
