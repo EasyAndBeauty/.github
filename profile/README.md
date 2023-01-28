@@ -93,7 +93,7 @@ https://github.com/EasyAndBeauty/DailyReceipt-FE-WEB/wiki/API-문서
 
 <img width="702" alt="4차 스프린트 회고" src="https://user-images.githubusercontent.com/55748886/204450132-c7c27f82-5f56-482b-8d68-973ed2c06e61.png">
 
-### 📌 5차 스프린트 진행중 📌(2022.11.22~12.25)
+### 📌 5차 스프린트 회고 📌(2022.11.22~12.25)
 
 <img width="702" alt="5차 스프린트 스케쥴표" src="https://user-images.githubusercontent.com/55748886/204450236-379644fb-b189-474a-9a65-042302fcf1c0.png">
 
